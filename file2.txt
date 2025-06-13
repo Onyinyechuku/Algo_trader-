@@ -1,1 +1,2 @@
 this is file2.txt
+This files was modified in local git
